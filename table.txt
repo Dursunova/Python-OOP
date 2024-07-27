@@ -1,0 +1,7 @@
+Function Name | Worked Time |  Arguments |  Keyword Arguments | results 
+sum              |2024-07-27 13:04:33.324595 |4,5 |  | 9 
+divide           |2024-07-27 13:04:33.324595 |4,0 |  | division by zero 
+sum              |2024-07-27 13:05:54.067170 |3,2 |  | 5 
+divide           |2024-07-27 13:05:54.067170 | | a=4,b=2 | 2.0 
+sum              |2024-07-27 13:19:35.353064 |3,2 |  | 5 
+divide           |2024-07-27 13:19:35.353064 | | a=4,b=2 | 2.0 
